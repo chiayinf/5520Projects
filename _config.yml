@@ -1,2 +1,3 @@
 name: Chia-Yin Fan, Awesome Dev
 markdown: kramdown
+permalink: /cs5520_project/:year/:month/:day/:title
