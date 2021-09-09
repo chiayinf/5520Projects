@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adrienne Slaughter, Horrible Cop
+title: Chia-Yin Fan, Horrible Cop
 ---
 
 ## Posts
