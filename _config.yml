@@ -1,4 +1,4 @@
 name: Chia-Yin Fan, Awesome Dev
 markdown: kramdown
-permalink: /cs5520_project/:year/:month/:day/:title.html
+permalink: /5520Projects/:year/:month/:day/:title.html
 theme: jekyll-theme-tactile
