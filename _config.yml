@@ -1,2 +1,4 @@
 name: Your Name, Awesome Dev
 markdown: kramdown
+
+theme: jekyll-theme-merlot
